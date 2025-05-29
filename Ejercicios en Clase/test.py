@@ -1,18 +1,13 @@
-aux = int (input())
+word = str(input("Introduce una palabra: "))
 
-if aux > 0:
-    print("es mayor a 0")
-else:
-    aux = aux * -1
-    if (aux > 0):
-        print("aux ahora si es mayor a 0")
+print("la palabra en mayusculas es: ", word.upper())
+print("la palabra en minusculas es: ", word.lower())
 
+for i in range(len(word)):
+    print(word[i], end=" ")
 
+print("\nla palabra al reves es: ", word[::-1])
 
-aux = int (input())
+if "hola" in word:
+    print("la palabra contiene la cadena 'hola'")
 
-if aux > 0:
-    print("es mayor a 0")
-elif (aux > 0):
-    aux = aux * -1
-    print("aux ahora si es mayor a 0")
