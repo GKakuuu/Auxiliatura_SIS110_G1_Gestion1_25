@@ -55,5 +55,16 @@ PRÁCTICA 03: `ERROR: 404`
 - [x] PRÁCTICA 01
 - [ ] PRÁCTICA 02
 
+# EXÁMENES
+## EJERCICIOS DE REPASO
+[REPASO 1ER PARCIAL](https://classroom.google.com/u/0/c/NzYyNTAyMjY5NDM1/m/Njk5MDE5NjQzOTUw/details) - 16/04/2025  
+[REPASO 2DO PARCIAL](https://classroom.google.com/u/0/c/NzYyNTAyMjY5NDM1/m/Njk5Nzg4NzAxMjA5/details) - 28/05/2025  
+REPASO 3ER PARCIAL: `ERROR: 404` 
+
+## RESOLUCIONES DE EXÁMENES
+[SOLUCIONARIO 1ER PARCIAL](/Resolucion%20de%20Examenes/1er%20Parcial/)  
+[SOLUCIONARIO 2DO PARCIAL](/Resolucion%20de%20Examenes/2do%20Parcial/)  
+SOLUCIONARIO 3ER PARCIAL: `ERROR: 404` 
+
 ¡Te esperamos en clase!  
 _Si tienes preguntas, no dudes en escribir por el grupo de WhatsApp._
