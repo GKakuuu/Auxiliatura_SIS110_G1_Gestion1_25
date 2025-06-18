@@ -39,20 +39,26 @@
 **1.** Un volcán ha entrado en erupción recientemente en Geldingadalur, Islandia. Afortunadamente, esta erupción es relativamente pequeña y, a diferencia de la infame erupción del Eyjafjallajökull, no se espera que cause retrasos en los vuelos internacionales o indignación mundial. Existe cierta preocupación por el gas magmático que se ha liberado como parte de la erupción, ya que podría representar un peligro para las poblaciones humanas en los alrededores. Los científicos han estimado la cantidad total de gas emitido que, debido a la falta de viento, se ha distribuido uniformemente en un área circular alrededor del centro del volcán. Las autoridades han evacuado el área y ahora quisieran cerrarla rodeando el perímetro con cinta de barrera y tu labor es: dado el área total cubierta por gas en metros cuadrados calcular la longitud total de cinta de barrera necesaria para rodear el área cubierta por gas en metros.
 
 ### Solución
-**Datos:** Área ![Formula](https://latex.codecogs.com/svg.image?$A$) (m²) distribuida en un círculo.
-**Objetivo:** calcular el perímetro ![Formula](https://latex.codecogs.com/svg.image?$(\text{longitud&space;de&space;cinta})$).
+**Datos:** Área $A$ (m²) distribuida en un círculo.
+**Objetivo:** calcular el perímetro $(\text{longitud de cinta})$.
 
-* Si el área es ![Formula](https://latex.codecogs.com/svg.image?$A$), el radio es
+* Si el área es $A$, el radio es
 
-  ![Fórmula](https://latex.codecogs.com/svg.image?r%20=%20\sqrt{\frac{A}{\pi}})
+$$
+r = \sqrt{\frac{A}{\pi}}
+$$
 
 * El perímetro de un círculo es
 
-  ![Fórmula](https://latex.codecogs.com/svg.image?$$P=2\pi&space;r=2\pi\sqrt{\frac{A}{\pi}}=2\sqrt{\pi&space;A}.$$)
+$$
+P = 2\pi r = 2\pi \sqrt{\frac{A}{\pi}} = 2\sqrt{\pi A}.
+$$
 
 **Respuesta:**
 
-  ![Fórmula](https://latex.codecogs.com/svg.image?$$\boxed{2\,\sqrt{\pi\,A}\text{metros&space;de&space;cinta}}$$)
+$$
+\boxed{2\,\sqrt{\pi\,A}\text{ metros de cinta}}
+$$
 
 ---
 
@@ -86,14 +92,14 @@ Luego:
 Dado un entero R que es el radio de la superficie de la mesa redonda donde los concursantes están sentados y otros dos enteros W y L especificando el ancho y el largo de la pizza respectivamente, indicar si la pizza cabe o no en la mesa.
 
 ### Solución
-* Mesa de radio ![Formula](https://latex.codecogs.com/svg.image?$R$): diámetro ![Formula](https://latex.codecogs.com/svg.image?$=2R$).
-* Pizza de ancho ![Formula](https://latex.codecogs.com/svg.image?$W$) y largo ![Formula](https://latex.codecogs.com/svg.image?$L$): para que quepa sin colgar, su **diagonal**
-  ![Formula](https://latex.codecogs.com/svg.image?$\sqrt{W^2&plus;L^2}$) debe ser ≤ ![Formula](https://latex.codecogs.com/svg.image?$2R$).
+* Mesa de radio $R$: diámetro $=2R$.
+* Pizza de ancho $W$ y largo $L$: para que quepa sin colgar, su **diagonal**
+  $\sqrt{W^2+L^2}$ debe ser ≤ $2R$.
 
 **Respuesta:**
 
-* **Cabe** si ![Formula](https://latex.codecogs.com/svg.image?$\sqrt{W^2&plus;L^2}\le2R$).
-* **No cabe** si ![Formula](https://latex.codecogs.com/svg.image?$\sqrt{W^2&plus;L^2}%3E2R$).
+* **Cabe** si $\sqrt{W^2+L^2}\le2R$.
+* **No cabe** si $\sqrt{W^2+L^2}>2R$.
 
 ---
 
@@ -104,9 +110,17 @@ Dado un entero R que es el radio de la superficie de la mesa redonda donde los c
   * madre = 40
   * hijo = 10.
 
-* Dentro de ![Formula](https://latex.codecogs.com/svg.image?$x$) años:
+* Dentro de $x$ años:
 
-  ![Formula](https://latex.codecogs.com/svg.image?$$40&plus;x=3\,\bigl(10&plus;x\bigr)\quad\Longrightarrow\quad&space;40&plus;x=30&plus;3x\quad\Longrightarrow\quad&space;10=2x\quad\Longrightarrow\quad&space;x=5.$$)
+  $$
+  40 + x = 3\,\bigl(10 + x\bigr)
+  \quad\Longrightarrow\quad
+  40 + x = 30 + 3x
+  \quad\Longrightarrow\quad
+  10 = 2x
+  \quad\Longrightarrow\quad
+  x = 5.
+  $$
 
 **Respuesta:** en **5 años**.
 
@@ -118,7 +132,10 @@ Dado un entero R que es el radio de la superficie de la mesa redonda donde los c
 * Un niño consume 550 g/día.
 * Para 214 niños:
 
-  ![Formula](https://latex.codecogs.com/svg.image?$$214\times550=117\,700&space;g=117,7&space;kg.$$)
+  $$
+  214\times550 = 117\,700 g = 117,7 kg.
+  $$
+
 
 ---
 
@@ -138,9 +155,9 @@ Dado un entero R que es el radio de la superficie de la mesa redonda donde los c
 ### Solución
 | Grupo | Alumnos | Aprobados | Tasa (%)        |
 | ----- | ------- | --------- | --------------- |
-| A     | 52      | 36        | ![Formula](https://latex.codecogs.com/svg.image?$36/52=69{,}2$)%  |
-| B     | 40      | 28        | ![Formula](https://latex.codecogs.com/svg.image?$28/40=70$)%      |
-| C     | 32      | 24        | ![Formula](https://latex.codecogs.com/svg.image?$24/32=75$)%      |
+| A     | 52      | 36        | $36/52=69{,}2$% |
+| B     | 40      | 28        | $28/40=70$%     |
+| C     | 32      | 24        | $24/32=75$%     |
 
 **Respuesta:** el **grupo C** tiene el mayor nivel de aprobación (75 %).
 
@@ -163,15 +180,17 @@ Al quitar dos esquinas opuestas de un tablero de ajedrez 8×8, quedan 62 casilla
 ### Solución
 Funciona en 15 de cada 60 personas ⇒
 
-  ![Formula](https://latex.codecogs.com/svg.image?$$P=\frac{15}{60}=0{,}25=25\%.$$)
+$$
+P = \frac{15}{60} = 0{,}25 = 25\%.
+$$
 
 ---
 
 **11.** Pedro y Nicol están enamorados y deciden tener una cita por primera vez, Nicol cita a Pedro a las 8 p.m. sin saber que Pedro tiene el reloj 15 minutos adelantado y Nicol olvida el detalle que el suyo lo trae 15 minutos atrasado. Si Pedro llega a la cita 15 minutos antes según su reloj y Nicol llega 15 minutos retrasada según su reloj. ¿Cuánto tiempo tuvo que esperar Pedro?
 
 ### Solución
-* Nicol atrasa 15 min; su reloj marca ![Formula](https://latex.codecogs.com/svg.image?$t_{\rm&space;real}-15$).
-* Pedro adelanta 15 min; su reloj marca ![Formula](https://latex.codecogs.com/svg.image?$t_{\rm&space;real}+15$).
+* Nicol atrasa 15 min; su reloj marca $t_{\rm real} - 15$.
+* Pedro adelanta 15 min; su reloj marca $t_{\rm real} + 15$.
 * Pedro llega cuando su reloj marca las 7:45 (15 min antes de la cita “8:00” en su reloj) ⇒ hora real = 7:30.
 * Nicol llega cuando su reloj marca las 8:15 (15 min tarde en su reloj) ⇒ hora real = 8:30.
 * Tiempo de espera = 8:30 − 7:30 = **1 hora (60 minutos)**.
