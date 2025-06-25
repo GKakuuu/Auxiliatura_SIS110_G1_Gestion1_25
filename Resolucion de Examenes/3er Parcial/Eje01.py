@@ -9,6 +9,9 @@ def contar_vocales(cadena):
     for letra in cadena:
         if letra.lower() in 'aeiou':
             contador += 1
+
+        # if letra.lower() == 'a' or letra.lower() == 'e' or letra.lower() == 'i' or letra.lower() == 'o' or letra.lower() == 'u':
+            # contador += 1
     return contador
 
 

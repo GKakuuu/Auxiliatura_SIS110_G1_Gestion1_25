@@ -15,11 +15,12 @@ def es_primo(n):
 def contar_primos(lista):
     contador = 0
     for numero in lista:
-        if es_primo(numero):
+        if es_primo(int(numero)):
             contador += 1
     return contador
 
 
 entrada = input("Ingrese una lista de numeros separados por espacios: ")
-lista_numeros = list(map(int, entrada.split()))
+lista_numeros = entrada.split()
+print("Lista de numeros:", lista_numeros)
 print("Cantidad de numeros primos:", contar_primos(lista_numeros))
