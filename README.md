@@ -41,7 +41,7 @@ Aquí encontrarás toda la información esencial para que te mantengas al día �
 ## ENUNCIADOS (_ALOJADOS EN CLASSROOM_) 
 [PRÁCTICA 01](https://classroom.google.com/u/0/c/NzYyNTAyMjY5NDM1/m/NzUzMDgzODIyODg1/details) - 02/04/2025  
 [PRÁCTICA 02](https://classroom.google.com/u/0/c/NzYyNTAyMjY5NDM1/a/Nzc4NzgzOTIzODg0/details) - 24/05/2025  
-PRÁCTICA 03: `ERROR: 404`
+[PRÁCTICA 03](https://classroom.google.com/u/0/c/NzYyNTAyMjY5NDM1/m/Njk5OTQ5MTc5OTM4/details) - 14/06/2025
 
 ## SOLUCIONARIOS
 [SOLUCIONARIO PRÁCTICA 01](/0_EXTRAS/Solucionarios/P_1/README.md)  
