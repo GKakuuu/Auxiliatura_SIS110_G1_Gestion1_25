@@ -34,7 +34,9 @@ Aquí encontrarás toda la información esencial para que te mantengas al día �
 ---
 
 # NOTAS
-[Notas Auxiliatura](/0_EXTRAS/Notas/README.md)
+[Notas de las Prácticas de Auxiliatura](/0_EXTRAS/Notas/Practicas/README.md)  
+[Notas de Asistencia a clases y Participaciónes](/0_EXTRAS/Notas/Asistencias_Participacion/README.md)  
+[Notas Totales de Auxiliatura](/0_EXTRAS/Notas/Total/README.md)  
 
 
 # PRÁCTICAS
