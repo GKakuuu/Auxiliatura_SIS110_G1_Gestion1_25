@@ -38,27 +38,34 @@ Aquí encontrarás toda la información esencial para que te mantengas al día �
 [Notas de Asistencia a clases y Participaciónes](/0_EXTRAS/Notas/Asistencias_Participacion/README.md)  
 [Notas Totales de Auxiliatura](/0_EXTRAS/Notas/Total/README.md)  
 
+---
 
 # PRÁCTICAS
 ## ENUNCIADOS (_ALOJADOS EN CLASSROOM_) 
 [PRÁCTICA 01](https://classroom.google.com/u/0/c/NzYyNTAyMjY5NDM1/m/NzUzMDgzODIyODg1/details) - 02/04/2025  
 [PRÁCTICA 02](https://classroom.google.com/u/0/c/NzYyNTAyMjY5NDM1/a/Nzc4NzgzOTIzODg0/details) - 24/05/2025  
-[PRÁCTICA 03](https://classroom.google.com/u/0/c/NzYyNTAyMjY5NDM1/m/Njk5OTQ5MTc5OTM4/details) - 14/06/2025
+[PRÁCTICA 03](https://classroom.google.com/u/0/c/NzYyNTAyMjY5NDM1/m/Njk5OTQ5MTc5OTM4/details) - 14/06/2025  
+[PRÁCTICA 04](https://classroom.google.com/u/0/c/NzYyNTAyMjY5NDM1/a/Nzg4MjUyODQ3NTY0/details) - 28/06/2025  
 
 ## SOLUCIONARIOS
 [SOLUCIONARIO PRÁCTICA 01](/0_EXTRAS/Solucionarios/P_1/README.md)  
 [SOLUCIONARIO PRÁCTICA 02](/0_EXTRAS/Solucionarios/P_2/)  
-SOLUCIONARIO PRÁCTICA 03 : `ERROR: 404`
+[SOLUCIONARIO PRÁCTICA 03](/0_EXTRAS/Solucionarios/P_3/)  
+[SOLUCIONARIO PRÁCTICA 04](/0_EXTRAS/Solucionarios/P_4/)  
 
 ## PRÁCTICAS ENTREGADAS
 - [x] PRÁCTICA 01
 - [x] PRÁCTICA 02
 - [x] PRÁCTICA 03
+- [x] PRÁCTICA 04
 
 ## PRÁCTICAS CALIFICADAS
 - [x] PRÁCTICA 01
-- [ ] PRÁCTICA 02
-- [ ] PRÁCTICA 03
+- [x] PRÁCTICA 02
+- [x] PRÁCTICA 03
+- [x] PRÁCTICA 04
+
+---
 
 # EXÁMENES
 ## EJERCICIOS DE REPASO
@@ -67,9 +74,12 @@ SOLUCIONARIO PRÁCTICA 03 : `ERROR: 404`
 [REPASO 3ER PARCIAL](/Repaso%20Parciales/Repaso%203er%20Parcial) - 18/06/2025  
 
 ## RESOLUCIONES DE EXÁMENES
-[SOLUCIONARIO 1ER PARCIAL](/Resolucion%20de%20Examenes/1er%20Parcial/)  
-[SOLUCIONARIO 2DO PARCIAL](/Resolucion%20de%20Examenes/2do%20Parcial/)  
-[SOLUCIONARIO 3ER PARCIAL](/Resolucion%20de%20Examenes/3er%20Parcial/)  
+[SOLUCIONARIO 1ER PARCIAL](/0_EXTRAS/Resolucion%20de%20Examenes/1er%20Parcial/)  
+[SOLUCIONARIO 2DO PARCIAL](/0_EXTRAS/Resolucion%20de%20Examenes/2do%20Parcial/)  
+[SOLUCIONARIO 3ER PARCIAL](/0_EXTRAS/Resolucion%20de%20Examenes/3er%20Parcial/)  
+[SOLUCIONARIO EXAMEN FINAL](/0_EXTRAS/Resolucion%20de%20Examenes/Examen%20Final/)  
+
+---
 
 ¡Te esperamos en clase!  
 _Si tienes preguntas, no dudes en escribir por el grupo de WhatsApp._
